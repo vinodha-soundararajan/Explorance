@@ -1,0 +1,25 @@
+.right {
+  float: right;
+  margin: 10px;
+}
+
+.gap {
+  margin: 5px;
+}
+
+.error {
+  color: red;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #c6c7cc;
+  padding: 10px 15px;
+}
+
+th {
+  font-weight: bold;
+}
